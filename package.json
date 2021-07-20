@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "rineblog-api",
+  "version": "1.0.0",
+  "description": "Backend for Rineblog",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinebeck/rineblog-api.git"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Rinebeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinebeck/rineblog-api/issues"
+  },
+  "homepage": "https://github.com/Rinebeck/rineblog-api#readme"
+}
